@@ -14,15 +14,23 @@ data:extend(
 	order = "abb",
     setting_type = "startup",
     default_value = true
-  },
-  
+ },
+
   {
     type = "bool-setting",
-    name = "TBRE-PowerHungry",
+    name = "TBRE-Quality",
 	order = "abc",
     setting_type = "startup",
     default_value = true
+  },  
+  {
+    type = "bool-setting",
+    name = "TBRE-PowerHungry",
+	order = "abd",
+    setting_type = "startup",
+    default_value = true
   },
+
 
 }
 )
