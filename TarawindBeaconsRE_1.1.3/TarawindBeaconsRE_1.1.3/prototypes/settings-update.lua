@@ -66,12 +66,12 @@ if settings.startup["TBRE-Quality"].value == false then
     end
   end
   
-  removeEffect("taBeacon", "quality")
-  removeEffect("taBeacon2", "quality")
-  removeEffect("taBeacon3", "quality")
-removeEffect("taBeacon4", "quality")
-  removeEffect("taBeacon5", "quality")
-  removeEffect("taBeacon6", "quality")
-  removeEffect("taBeacon7", "quality")
+      removeEffect("taBeacon", "quality")
+      removeEffect("taBeacon2", "quality")
+      removeEffect("taBeacon3", "quality") 
+      removeEffect("taBeacon4", "quality")
+      removeEffect("taBeacon5", "quality")
+      removeEffect("taBeacon6", "quality")
+      removeEffect("taBeacon7", "quality")
 
   end
