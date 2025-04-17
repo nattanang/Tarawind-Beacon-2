@@ -2,7 +2,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon1",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon1.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon1.png",
     subgroup = "module",
     order = "a[beacon]",
 	icon_size = 32,
@@ -12,7 +12,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon2",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon2.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon2.png",
     subgroup = "module",
 	icon_size = 32,
     order = "a[beacon]",
@@ -22,7 +22,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon3",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon3.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon3.png",
     subgroup = "module",
     order = "a[beacon]",
 	icon_size = 32,
@@ -32,7 +32,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon4",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon4.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon4.png",
     subgroup = "module",
     order = "a[beacon]",
 	icon_size = 32,
@@ -42,7 +42,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon5",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon5.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon5.png",
     subgroup = "module",
     order = "a[beacon]",
 	icon_size = 32,
@@ -52,7 +52,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon6",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon6.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon6.png",
     subgroup = "module",
 	icon_size = 32,
     order = "a[beacon]",
@@ -62,7 +62,7 @@ data:extend({
   {
     type = "item",
     name = "twBeacon7",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/icons/beacon7.png",
+    icon = "__TarawindBeacons2__/graphics/icons/beacon7.png",
     subgroup = "module",
 	icon_size = 32,
     order = "a[beacon]",
