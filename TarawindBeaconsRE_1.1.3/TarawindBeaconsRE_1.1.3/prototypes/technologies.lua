@@ -2,7 +2,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission1",
-    icon = "__TarawindBeacons_RE1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -28,7 +28,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission2",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -54,7 +54,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission3",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -81,7 +81,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission4",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -108,7 +108,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission5",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -136,7 +136,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission6",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
@@ -164,7 +164,7 @@ data:extend({
   {
     type = "technology",
     name = "tweffect-transmission7",
-    icon = "__TarawindBeaconsRE_1.1.3__/graphics/tech/tw-tech.png",
+    icon = "__TarawindBeacons2__/graphics/tech/tw-tech.png",
     icon_size = 256, 
     effects =
     {
