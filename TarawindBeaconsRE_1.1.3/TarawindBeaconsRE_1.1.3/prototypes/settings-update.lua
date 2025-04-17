@@ -54,11 +54,24 @@ end
 
 --accept or deny quality modules
 if settings.startup["TBRE-Quality"].value == false then
-table.remove(data.raw["beacon"]["twBeacon1"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon2"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon3"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon4"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon5"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon6"]["allowed_effects"],"quality")
-table.remove(data.raw["beacon"]["twBeacon7"]["allowed_effects"],"quality")
-end
+  local function removeEffect(beaconName, effectName)
+    local effects = data.raw["beacon"][beaconName]["allowed_effects"]
+    if effects then
+      for i, effect in ipairs(effects) do
+        if effect == effectName then
+          table.remove(effects, i)
+          break
+        end
+      end
+    end
+  end
+  
+  removeEffect("taBeacon", "quality")
+  removeEffect("taBeacon2", "quality")
+  removeEffect("taBeacon3", "quality")
+removeEffect("taBeacon4", "quality")
+  removeEffect("taBeacon5", "quality")
+  removeEffect("taBeacon6", "quality")
+  removeEffect("taBeacon7", "quality")
+
+  end
