@@ -7,7 +7,6 @@ nodata:extend(
     setting_type = "startup",
     default_value = true
   },
-
   {
     type = "bool-setting",
     name = "TBRE-Productivity",
@@ -28,8 +27,6 @@ default_value = true
 	order = "abd",
     setting_type = "startup",
     default_value = true
-  },
-
-
+  }	
 }
 )
