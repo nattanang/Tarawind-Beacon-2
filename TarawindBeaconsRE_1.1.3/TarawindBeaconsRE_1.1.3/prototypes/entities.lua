@@ -1,4 +1,4 @@
-data.extend({
+data:extend({
   -- Thanks to Defi for the graphics fix
   { -- twBeacon1
     type = "beacon",
