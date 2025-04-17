@@ -15,12 +15,13 @@ nodata:extend(
     setting_type = "startup",
     default_value = true
  },
+{
 type = "bool-setting",
 name = "TBRE-Quality",
 order = "abc",
 setting_type = "startup",
 default_value = true
-
+}
   {
     type = "bool-setting",
     name = "TBRE-PowerHungry",
