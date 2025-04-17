@@ -1,4 +1,4 @@
-data:extend(
+nodata:extend(
 {
   {
     type = "bool-setting",
@@ -15,10 +15,16 @@ data:extend(
     setting_type = "startup",
     default_value = true
  },
+type = "bool-setting",
+name = "TBRE-Quality",
+order = "abc",
+setting_type = "startup",
+default_value = true
+
   {
     type = "bool-setting",
     name = "TBRE-PowerHungry",
-	order = "abc",
+	order = "abd",
     setting_type = "startup",
     default_value = true
   },
