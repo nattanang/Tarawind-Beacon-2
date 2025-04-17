@@ -145,7 +145,7 @@ data.extend({
     allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
     base_picture =
     {
-      filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
+      filename = "__TarawindBeaconsRE_1.1.3__/graphics/entity/beacon/beacon-base.png",
       width = 116,
       height = 93,
       shift = { 0.34375/3, 0.046875/3},
