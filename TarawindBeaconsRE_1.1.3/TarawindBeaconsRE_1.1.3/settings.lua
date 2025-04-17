@@ -1,4 +1,4 @@
-nodata:extend(
+data:extend(
 {
   {
     type = "bool-setting",
