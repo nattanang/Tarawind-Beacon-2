@@ -52,3 +52,13 @@ table.remove(data.raw["beacon"]["twBeacon6"]["allowed_effects"],"productivity")
 table.remove(data.raw["beacon"]["twBeacon7"]["allowed_effects"],"productivity")
 end
 
+--accept or deny quality modules
+if settings.startup["TBRE-Quality"].value == false then
+table.remove(data.raw["beacon"]["twBeacon1"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon2"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon3"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon4"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon5"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon6"]["allowed_effects"],"quality")
+table.remove(data.raw["beacon"]["twBeacon7"]["allowed_effects"],"quality")
+end
