@@ -1,35 +1,7 @@
-V1.1.3
-Date: 2/18/2024
-- Attempt to fix an startup error with Pyanadon mods. (Untested, fix suggested by domisPL.)
-
-V1.1.2
-Date: 9/7/2021
-- Fixed misplaced tech icons (cause: vanilla beacon tech's icon has been changed).
-
-V1.1.1
-Date: 8/25/2021
-- Added mod settings for optional expensive costs, toggleable productivity module acceptance and power hunger mode.
-- Added Traditional Chinese localization.
-
-
-V0.17.0
--Updated to work with 0.17.
-
-V0.16.3
--Edited beacon's descriptions to show effect areas and module slots.
--Beacons now cost more energy to run each tier - for balancing reasons.
--Added Chinese localization.
-
-V0.16.2
--Thanks to anarchyinc, i was able to remove the productivity limit placed by the devs.
--Now the beacons should be able to give all recipes a productivity upgrade.
-
-V0.16.1
--The costs to make all beacons are cut down, since those stupid devs "fixed" some irrelevant bugs in the latest 0.16.23 patch, and broke how they used to work. You can still put productivity modules in them, but only recipes that accept productivity upgrades would receive it.
-
-
-V0.15.3
--Adjusted the cost of all recipes.
-
-V0.15.2
--Fixed "unknown.key" problems in entity and tech names.
+v1.1.1
+4/17/25
+Fix issue around quality
+----
+v1.1.0
+4/15/25
+Initial Release
