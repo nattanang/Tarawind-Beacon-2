@@ -12,7 +12,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -77,7 +77,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -142,7 +142,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -207,7 +207,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -272,7 +272,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -337,7 +337,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
@@ -402,7 +402,7 @@ data:extend({
     dying_explosion = "medium-explosion",
     collision_box = {{-0.2, -0.2}, {0.2, 0.2}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
-    allowed_effects = {"consumption", "speed", "pollution", "productivity", "quality"},
+    allowed_effects = {"consumption", "speed", "pollution", "productivity"},
     base_picture =
     {
       filename = "__TarawindBeaconsRE__/graphics/entity/beacon/beacon-base.png",
