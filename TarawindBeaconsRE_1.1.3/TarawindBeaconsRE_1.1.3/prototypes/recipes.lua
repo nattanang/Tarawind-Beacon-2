@@ -9,7 +9,7 @@ data:extend({
       {"beacon", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon1"
+results = {{type="item", name="taBeacon1", amount=1}}  
   },
   {
     type = "recipe",
@@ -21,7 +21,7 @@ data:extend({
       {"twBeacon1", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon2"
+    results = {{type="item", name="taBeacon2", amount=1}}  
   },
   {
     type = "recipe",
@@ -33,7 +33,7 @@ data:extend({
       {"twBeacon2", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon3"
+    results = {{type="item", name="taBeacon3", amount=1}}  
   },
   {
     type = "recipe",
@@ -45,7 +45,7 @@ data:extend({
       {"twBeacon3", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon4"
+    results = {{type="item", name="taBeacon4", amount=1}}  
   },
   {
     type = "recipe",
@@ -57,7 +57,7 @@ data:extend({
       {"twBeacon4", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon5"
+    results = {{type="item", name="taBeacon5", amount=1}}  
   },
   {
     type = "recipe",
@@ -69,7 +69,7 @@ data:extend({
       {"twBeacon5", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon6"
+    results = {{type="item", name="taBeacon6", amount=1}}  
   },
   {
     type = "recipe",
@@ -81,6 +81,6 @@ data:extend({
       {"twBeacon6", 2},
       {"processing-unit", 10}
     },
-    result = "twBeacon7"
+    results = {{type="item", name="taBeacon1", amount=1}}  
   }
 })
