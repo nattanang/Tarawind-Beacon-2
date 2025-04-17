@@ -1,4 +1,4 @@
-data.extend({
+data:extend({
   {
     type = "item",
     name = "twBeacon1",
