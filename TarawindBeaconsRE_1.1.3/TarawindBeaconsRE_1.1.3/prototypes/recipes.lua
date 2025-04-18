@@ -81,6 +81,6 @@ results = {{type="item", name="twBeacon1", amount=1}}
       {"twBeacon6", 2},
       {"processing-unit", 10}
     },
-    results = {{type="item", name="twBeacon1", amount=1}}  
+    results = {{type="item", name="twBeacon7", amount=1}}  
   }
 })
