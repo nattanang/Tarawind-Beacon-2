@@ -1,5 +1,9 @@
 ----
-v1.1.5
+v1.2.0
+4/17/25
+Fix some hard code
+----
+v1.1.6
 4/17/25
 Fix Mk7 Recipe issue
 ----
