@@ -58,9 +58,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "600kW",
     distribution_effectivity = 0.6,
+module_slots = 3,
     module_specification =
     {
-      module_slots = 3,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -123,9 +123,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "800kW",
     distribution_effectivity = 0.8,
+module_slots = 4,
     module_specification =
     {
-      module_slots = 4,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -188,9 +188,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "1MW",
     distribution_effectivity = 1,
+module_slots = 5,
     module_specification =
     {
-      module_slots = 5,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -253,9 +253,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "1.2MW",
     distribution_effectivity = 1.2,
+module_slots = 6,
     module_specification =
     {
-      module_slots = 6,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -318,9 +318,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "1.4MW",
     distribution_effectivity = 1.4,
+ module_slots = 7,
     module_specification =
     {
-      module_slots = 7,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -383,9 +383,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "1.6MW",
     distribution_effectivity = 1.6,
+  module_slots = 8,
     module_specification =
     {
-      module_slots = 8,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
@@ -448,9 +448,9 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     energy_usage = "4MW",
     distribution_effectivity = 2.0,
+  module_slots = 10,
     module_specification =
     {
-      module_slots = 10,
       module_info_icon_shift = {0, 0.5},
       module_info_multi_row_initial_height_modifier = -0.3
     }
