@@ -7,7 +7,7 @@ data:extend({
     ingredients =
     {
       {type="item", name="beacon", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
 results = {{type="item", name="twBeacon1", amount=1}}  
   },
@@ -19,7 +19,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon1", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon2", amount=1}}  
   },
@@ -31,7 +31,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon2", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon3", amount=1}}  
   },
@@ -43,7 +43,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon3", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon4", amount=1}}  
   },
@@ -55,7 +55,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon4", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon5", amount=1}}  
   },
@@ -67,7 +67,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon5", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon6", amount=1}}  
   },
@@ -79,7 +79,7 @@ results = {{type="item", name="twBeacon1", amount=1}}
     ingredients =
     {
       {type="item", name="twBeacon6", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon7", amount=1}}  
   }
