@@ -1,32 +1,32 @@
 --expensive mode
 if settings.startup["TBRE-Expensive"].value == true then
 data.raw["recipe"]["twBeacon1"]["ingredients"] = {
-      {type="item", name="beacon", amount=1},
-      {type="item", name={"processing-unit", amount=10}
+      {type="item", name="beacon", amount=10},
+      {type="item", name="processing-unit", amount=10}
 }
 data.raw["recipe"]["twBeacon2"]["ingredients"] = {
-      {"twBeacon1", 10},
-      {"processing-unit", 15}
+      {type="item", name="twBeacon1", amount=10},
+      {type="item", name="processing-unit", amount=15}
 }
 data.raw["recipe"]["twBeacon3"]["ingredients"] = {
-      {"twBeacon2", 10},
-      {"processing-unit", 20}
+      {type="item", name="twBeacon2", amount=10},
+      {type="item", name="processing-unit", amount=20}
 }
 data.raw["recipe"]["twBeacon4"]["ingredients"] = {
-      {"twBeacon3", 10},
-      {"processing-unit", 25}
+      {type="item", name="twBeacon3", amount=10},
+      {type="item", name="processing-unit", amount=25}
 }
 data.raw["recipe"]["twBeacon5"]["ingredients"] = {
-      {"twBeacon4", 10},
-      {"processing-unit", 30}
+      {type="item", name="twBeacon4", amount=10},
+      {type="item", name="processing-unit", amount=30}
 }
 data.raw["recipe"]["twBeacon6"]["ingredients"] = {
-      {"twBeacon5", 10},
-      {"processing-unit", 35}
+      {type="item", name="twBeacon5", amount=10},
+      {type="item", name="processing-unit", amount=35}
 }
 data.raw["recipe"]["twBeacon7"]["ingredients"] = {
-      {"twBeacon6", 10},
-      {"processing-unit", 40}
+      {type="item", name="twBeacon6", amount=10},
+      {type="item", name="processing-unit", amount=40}
 }
 end
 
