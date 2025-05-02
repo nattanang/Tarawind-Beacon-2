@@ -6,8 +6,8 @@ data:extend({
     energy_required = 15,
     ingredients =
     {
-      {"beacon", 2},
-      {"processing-unit", 10}
+      {type="item", name="beacon", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
 results = {{type="item", name="twBeacon1", amount=1}}  
   },
@@ -18,8 +18,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon1", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon1", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon2", amount=1}}  
   },
@@ -30,8 +30,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon2", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon2", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon3", amount=1}}  
   },
@@ -42,8 +42,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon3", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon3", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon4", amount=1}}  
   },
@@ -54,8 +54,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon4", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon4", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon5", amount=1}}  
   },
@@ -66,8 +66,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon5", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon5", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon6", amount=1}}  
   },
@@ -78,8 +78,8 @@ results = {{type="item", name="twBeacon1", amount=1}}
     energy_required = 15,
     ingredients =
     {
-      {"twBeacon6", 2},
-      {"processing-unit", 10}
+      {type="item", name="twBeacon6", amount=1},
+      {type="item", name={"processing-unit", amount=10}
     },
     results = {{type="item", name="twBeacon7", amount=1}}  
   }
