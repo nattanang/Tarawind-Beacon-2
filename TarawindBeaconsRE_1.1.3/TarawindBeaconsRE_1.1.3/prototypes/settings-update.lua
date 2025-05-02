@@ -2,7 +2,7 @@
 if settings.startup["TBRE-Expensive"].value == true then
 data.raw["recipe"]["twBeacon1"]["ingredients"] = {
       {type="item", name="beacon", amount=1},
-      {"processing-unit", 10}
+      {type="item", name={"processing-unit", amount=10}
 }
 data.raw["recipe"]["twBeacon2"]["ingredients"] = {
       {"twBeacon1", 10},
