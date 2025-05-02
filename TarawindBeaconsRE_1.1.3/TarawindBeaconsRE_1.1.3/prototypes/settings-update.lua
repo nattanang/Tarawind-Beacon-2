@@ -1,7 +1,7 @@
 --expensive mode
 if settings.startup["TBRE-Expensive"].value == true then
 data.raw["recipe"]["twBeacon1"]["ingredients"] = {
-      {"beacon", 10},
+      {type="item", name="beacon", amount=1},
       {"processing-unit", 10}
 }
 data.raw["recipe"]["twBeacon2"]["ingredients"] = {
